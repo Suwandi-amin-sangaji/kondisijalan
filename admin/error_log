@@ -1,0 +1,15 @@
+[11-Oct-2022 06:38:38 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/peme7229/public_html/kondisijalan.xyz/admin/data_kerusakan.php on line 3
+[11-Oct-2022 06:38:38 Asia/Jakarta] PHP Notice:  Undefined index: foto in /home/peme7229/public_html/kondisijalan.xyz/admin/header.php on line 40
+[11-Oct-2022 06:38:38 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/peme7229/public_html/kondisijalan.xyz/admin/header.php on line 41
+[11-Oct-2022 08:24:48 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/peme7229/public_html/kondisijalan.xyz/admin/data_kerusakan.php on line 3
+[11-Oct-2022 08:24:48 Asia/Jakarta] PHP Notice:  Undefined index: foto in /home/peme7229/public_html/kondisijalan.xyz/admin/header.php on line 40
+[11-Oct-2022 08:24:48 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/peme7229/public_html/kondisijalan.xyz/admin/header.php on line 41
+[11-Oct-2022 08:24:52 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/peme7229/public_html/kondisijalan.xyz/admin/data_baik.php on line 3
+[11-Oct-2022 08:24:52 Asia/Jakarta] PHP Notice:  Undefined index: foto in /home/peme7229/public_html/kondisijalan.xyz/admin/header.php on line 40
+[11-Oct-2022 08:24:52 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/peme7229/public_html/kondisijalan.xyz/admin/header.php on line 41
+[11-Oct-2022 08:24:53 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/peme7229/public_html/kondisijalan.xyz/admin/data_baik.php on line 3
+[11-Oct-2022 08:24:53 Asia/Jakarta] PHP Notice:  Undefined index: foto in /home/peme7229/public_html/kondisijalan.xyz/admin/header.php on line 40
+[11-Oct-2022 08:24:53 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/peme7229/public_html/kondisijalan.xyz/admin/header.php on line 41
+[11-Oct-2022 13:27:02 Asia/Jakarta] PHP Notice:  Undefined index: level in /home/peme7229/public_html/kondisijalan.xyz/admin/data_grafik.php on line 3
+[11-Oct-2022 13:27:02 Asia/Jakarta] PHP Notice:  Undefined index: foto in /home/peme7229/public_html/kondisijalan.xyz/admin/header.php on line 40
+[11-Oct-2022 13:27:02 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/peme7229/public_html/kondisijalan.xyz/admin/header.php on line 41

@@ -1,0 +1,1 @@
+[10-Oct-2022 22:58:24 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/peme7229/public_html/kondisijalan.xyz/login/koneksi.php on line 8
